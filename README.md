@@ -41,7 +41,7 @@ management/
 ├── server.js
 └── package.json
 
-## Github Repository:-  https://github.com/shubhamyadav2596/invoice_mngmnt/tree/main
+## Github Repository:-  https://github.com/shubhamyadav2596/invoice-mngment-demo
 
 ## Live Link:- https://invoice-mngmnt-1.onrender.com/
 
